@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: deckcitadel
+        psr4_prefix: deckcitadel
+        src_path: app
